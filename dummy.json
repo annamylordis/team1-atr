@@ -1,0 +1,58 @@
+[
+    {
+        "hostname": "ip-10-0-117-139.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.3.48-release_928ufnh3",
+        "time-stamp":1321385908243.1204,
+        "client-name": "CBA",
+        "instance-id": "i-234567u89"
+    },
+    {
+        "hostname": "ip-10-0-101-43.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.2.42-release_jasd923l",
+        "time-stamp":1481385908243.1204,
+        "client-name": "Atlassian",
+        "instance-id": "i-3456789"
+    },
+    {
+        "hostname": "ip-10-0-118-29.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.4.57-release_f6a7a3b",
+        "time-stamp":1543385908243.1204,
+        "client-name": "IBM",
+        "instance-id": "i-3245678"
+    },
+    {
+        "hostname": "ip-10-0-119-192.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.3.48-release_928ufnh3",
+        "time-stamp":1572305908243.1204,
+        "client-name": "Caltex",
+        "instance-id": "i-34567sdfb"
+    },
+    {
+        "hostname": "ip-10-0-116-252.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.4.57-release_f6a7a3b",
+        "time-stamp":1571005908243.1204,
+        "client-name": "Takeda Pharma",
+        "instance-id": "i-56729p854"
+    },
+    {
+        "hostname": "ip-10-0-0-77.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.1.17-release_823nd2g",
+        "time-stamp":1281385908243.1204,
+        "client-name": "GOCD",
+        "instance-id": "i-9871234"
+    },
+    {
+        "hostname": "ip-10-0-101-252.ap-southeast-2.compute.internal",
+        "build-date": "2019-11-26 09:53:59 UTC",
+        "package-version": "3.2.4.57-release_f6a7a3b",
+        "time-stamp":1541385908243.1204,
+        "client-name": "BMS",
+        "instance-id": "i-908712634"
+    }
+]
